@@ -1,3 +1,0 @@
-pytest==7.0.0
-flake8==3.9.2
-# Add other dependencies as needed
